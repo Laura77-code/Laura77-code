@@ -28,9 +28,9 @@ One of my biggest motivations is using tech to close social gaps. Don Pepe, my A
 ---
 
 ### 🌐 Socials
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/laura-natalia-m-283aa7223/))
+- [LinkedIn](https://www.linkedin.com/in/laura-natalia-m-283aa7223/)
 
----
+
 
 ### 💻 Tech Stack
 
@@ -41,13 +41,6 @@ One of my biggest motivations is using tech to close social gaps. Don Pepe, my A
 `MongoDB` `PostgreSQL`  
 `Figma` (UI Design)
 
----
-
-### 📊 GitHub Stats
-
-![Laura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laura77-code&show_icons=true&theme=radical)
-
----
 
 ### ✍️ Random Dev Quote
 
